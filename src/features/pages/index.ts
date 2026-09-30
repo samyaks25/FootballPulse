@@ -1,0 +1,9 @@
+export { HomePage } from "./HomePage";
+export { LivePage } from "./LivePage";
+export { MatchesPage } from "./MatchesPage";
+export { LeaguesPage } from "./LeaguesPage";
+export { TeamsPage } from "./TeamsPage";
+export { PlayersPage } from "./PlayersPage";
+export { ComparePage } from "./ComparePage";
+export { FavoritesPage } from "./FavoritesPage";
+export { SettingsPage } from "./SettingsPage";
