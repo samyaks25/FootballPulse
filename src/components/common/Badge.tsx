@@ -16,7 +16,7 @@ export const Badge = forwardRef<HTMLSpanElement, BadgeProps>(
       danger: "bg-red-500/20 text-red-400 border border-red-500/30",
       info: "bg-blue-500/20 text-blue-400 border border-blue-500/30",
       live: "bg-accent-red/20 text-accent-red border border-accent-red/30 animate-pulse-subtle",
-      upcoming: "bg-accent-blue/20 text-accent-blue border border-accent-blue/30",
+      upcoming: "bg-accent-cyan/20 text-accent-cyan border border-accent-cyan/30",
       finished: "bg-text-muted/20 text-text-muted border border-text-muted/30",
     };
 
